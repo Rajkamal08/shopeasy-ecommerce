@@ -1,0 +1,7 @@
+.os-page { max-width: 600px; margin: 0 auto; padding: 40px 16px; text-align: center; animation: fadeIn 0.5s ease; }
+.os-check { width: 100px; height: 100px; margin: 0 auto 24px; background: var(--success-bg); border-radius: var(--radius-full); display: flex; align-items: center; justify-content: center; font-size: 3rem; animation: scaleIn 0.5s ease; }
+.os-page h1 { font-size: 1.8rem; color: var(--success); margin-bottom: 8px; }
+.os-page p { color: var(--text-secondary); margin-bottom: 6px; }
+.os-details { background: white; border-radius: var(--radius-lg); padding: 24px; margin: 24px 0; box-shadow: var(--shadow-sm); text-align: left; }
+.os-details-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--border-light); font-size: 0.88rem; }
+.os-actions { display: flex; gap: 12px; justify-content: center; margin-top: 24px; }
